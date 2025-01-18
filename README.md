@@ -3,6 +3,11 @@
 ### Project overview
 The project aims at analyzing HR data to track key HR metrics to enable the department monitor and manage various aspects of employee data and maintain a healthy work force.
 
+<img width="468" alt="BI" src="https://github.com/user-attachments/assets/cab18b6a-fc8f-4513-97b2-434221b7ddd9" />
+
+![Tb](https://github.com/user-attachments/assets/4c67f206-53e9-452d-9d2e-654199260f54)
+
+
 ### Tools
  -Power BI
  -Tableau 
